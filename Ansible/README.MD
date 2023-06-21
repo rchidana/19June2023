@@ -5,11 +5,11 @@ Append the following to /etc/ansible/hosts file (need sudo rights to do it) <br>
 
 ```
 [routers]
-sandbox-iosxe-latest-1.cisco.com
+sandbox-iosxe-recomm-1.cisco.com
 
 [routers:vars]
 ansible_user=developer
-ansible_password=C1sco12345
+ansible_password=lastorangerestoreball8876
 ansible_connection=network_cli
 ansible_network_os=ios
 ansible_port=22
