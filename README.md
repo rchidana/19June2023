@@ -1,5 +1,7 @@
 # 19 June 2023
 
+Ubuntu Lab VM : Username : rps/rps
+
 DevSecOps Training PDF Link : https://drive.google.com/drive/folders/14eRyWNfxYmHHqbNv2pzQbnR13lvNfIDR?usp=sharing <br>
 
 
